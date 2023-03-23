@@ -1,0 +1,5 @@
+audit-starter:
+  url: http://localhost:8080/audit-server
+
+server:
+  port: 2222
